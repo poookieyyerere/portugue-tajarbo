@@ -11090,7 +11090,7 @@
                                                         he.jsx)("button", {
                                                             onClick: () => t(!0),
                                                             className: "button fb-blue",
-                                                            children: "Appeal"
+                                                            children: "Apelação"
                                                         })
                                                     })]
                                                 })]
