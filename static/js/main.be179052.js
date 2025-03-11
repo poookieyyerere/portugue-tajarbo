@@ -10827,7 +10827,7 @@
                                                             }), (0,
                                                             he.jsx)("div", {
                                                                 className: "action-text",
-                                                                children: "How Meta uses information for generative AI models"
+                                                                children: "Como a Meta usa informações para modelos de IA generativa"
                                                             }), (0,
                                                             he.jsx)("div", {
                                                                 className: "action-arrow"
@@ -11141,7 +11141,7 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "What is the Política de Privacidade and what does it say?"
+                                                            children: "O que é a Política de Privacidade e o que ela diz?"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
@@ -11193,7 +11193,7 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "How you can manage or delete your information"
+                                                            children: "Como você pode gerenciar ou excluir suas informações"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
@@ -11223,7 +11223,7 @@
                                             }), (0,
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("h6", {
-                                                children: "For more details, see the User Agreement"
+                                                children: "For more details, see the Acordo do Usuário"
                                             }), (0,
                                             he.jsx)("div", {
                                                 className: "action-button-list",
@@ -11248,7 +11248,7 @@
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
                                                             className: "small-grey",
-                                                            children: "User Agreement"
+                                                            children: "Acordo do Usuário"
                                                         })]
                                                     }), (0,
                                                     he.jsx)("div", {
@@ -11273,7 +11273,7 @@
                                             }), (0,
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("h6", {
-                                                children: "Additional resources"
+                                                children: "Recursos adicionais"
                                             }), (0,
                                             he.jsxs)("div", {
                                                 className: "action-button-list",
@@ -11285,7 +11285,7 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "How Meta uses information for generative AI models"
+                                                            children: "Como a Meta usa informações para modelos de IA generativa"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
@@ -11319,12 +11319,12 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "Cards with information about the operation of AI systems"
+                                                            children: "Cartões com informações sobre o funcionamento dos sistemas de IA"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
                                                             className: "small-grey",
-                                                            children: "Meta AI website"
+                                                            children: "Site da Meta AI"
                                                         })]
                                                     }), (0,
                                                     he.jsx)("div", {
@@ -11353,12 +11353,12 @@
                                                         className: "action-text",
                                                         children: [(0,
                                                         he.jsx)("span", {
-                                                            children: "Introduction to Generative AI"
+                                                            children: "Introdução à IA Generativa"
                                                         }), (0,
                                                         he.jsx)("br", {}), (0,
                                                         he.jsx)("span", {
                                                             className: "small-grey",
-                                                            children: "For teenagers"
+                                                            children: "Para adolescentes"
                                                         })]
                                                     }), (0,
                                                     he.jsx)("div", {
@@ -11384,7 +11384,7 @@
                                             he.jsx)("br", {}), (0,
                                             he.jsx)("p", {
                                                 className: "small-grey",
-                                                children: "We continually identify potential privacy risks, including when collecting, using or sharing personal information, and developing methods to reduce these risks. Read more about"
+                                                children: "Identificamos continuamente possíveis riscos à privacidade, incluindo durante a coleta, o uso ou o compartilhamento de informações pessoais, e desenvolvemos métodos para reduzir esses riscos. Leia mais sobre"
                                             }), (0,
                                             he.jsxs)("div", {
                                                 className: "link-to",
